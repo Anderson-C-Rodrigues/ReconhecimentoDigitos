@@ -1,0 +1,1 @@
+Coloque aqui a imagem digito_3.png gerada a partir do MNIST.
